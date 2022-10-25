@@ -1,6 +1,6 @@
 # Hi 👋, I'm Syayid Al Aziz ![](https://visitor-badge.glitch.me/badge?page_id=syayidalaziz10.syayidalaziz10)
-🙃 I'm currently working on something cool! <br />
 🌱 I’m currently learning **Web Development**<br />
+🙃 I'm currently working on something cool! <br />
 
 <div style='text-align:center'>
     <a href="#" title="Stats">
