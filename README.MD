@@ -1,4 +1,4 @@
-# Hi 👋, Syayid Al Aziz![](https://visitor-badge.glitch.me/badge?page_id=syayidalaziz10.syayidalaziz10)
+# Hi 👋, I'm Syayid Al Aziz ![](https://visitor-badge.glitch.me/badge?page_id=syayidalaziz10.syayidalaziz10)
 🌱 I’m currently learning **Web Development**<br />
 
 
