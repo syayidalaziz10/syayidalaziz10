@@ -1,4 +1,5 @@
 # Hi 👋, I'm Syayid Al Aziz ![](https://visitor-badge.glitch.me/badge?page_id=syayidalaziz10.syayidalaziz10)
+🙃 I'm currently working on something cool! <br />
 🌱 I’m currently learning **Web Development**<br />
 
 <div style='text-align:center'>
