@@ -2,7 +2,7 @@
 🌱 I’m currently learning **Web Development**<br />
 🙃 I'm currently working on something cool! <br />
 
-<div style='text-align:center; margin-right: 5px;'>
+<div style='text-align:center'>
     <a href="#" title="Stats">
         <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=syayidalaziz10&show_icons=true&count_private=true&theme=gotham">
     </a>
