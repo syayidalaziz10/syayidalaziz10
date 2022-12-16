@@ -1,4 +1,4 @@
-<h1 align='center'>Hi 👋, I'm Syayid Al Aziz !(https://visitor-badge.glitch.me/badge?page_id=syayidalaziz10.syayidalaziz10)</h1>
+<h1 align='center'>Hi 👋, I'm Syayid Al Aziz ![](https://visitor-badge.glitch.me/badge?page_id=syayidalaziz10.syayidalaziz10)</h1>
 🌱 I’m currently learning **Web Development**<br />
 🙃 I'm currently working on something cool! <br />
 
