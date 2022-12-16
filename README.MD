@@ -1,4 +1,4 @@
-<h1 align='center'>Hi 👋, I'm Syayid Al Aziz !</h1>
+<h1>Hi 👋, I'm Syayid Al Aziz !</h1>
 🌱 I’m currently learning **Web Development**<br />
 🙃 I'm currently working on something cool! <br />
 
