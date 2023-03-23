@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Syayid Al Aziz !</h1>
 🌱 I’m currently learning <b>Web Development</b><br />
-🙃 I'm currently working on something cool! <br />
+🙃 I'm currently working on something cool! <br /><br/>
 
 <div style='text-align:center'>
     <a href="#" title="Stats">
